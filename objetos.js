@@ -1,24 +1,24 @@
 // o que são objetos?
 // chave-valor (key-value pair)
 
-/*const time = {
-    nome: "Sport",
-    estado: "Pernambuco",
-    jogadores : {
-        goleiro: "Maílson",
-        zagueiro: "Sabino",
-        meioCampo: "Hernanes",
-        atacante: "André",
+    const time = {
+        nome: "Sport",
+        estado: "Pernambuco",
+        jogadores : {
+            goleiro: "Maílson",
+            zagueiro: "Sabino",
+            meioCampo: "Hernanes",
+            atacante: "André",
     },
     jogar: function() {
         console.log("iniciando o jogo...")
     }
-} */
+} 
 
 
-/*console.log(time.nome);
+console.log(time.nome);
 time.jogar();
-console.log(time.estado); */
+console.log(time.estado); 
 
 // javascript - Factory Functions (Função de Fábrica)
 
